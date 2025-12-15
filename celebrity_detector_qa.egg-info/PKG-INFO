@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: celebrity-detector-qa
+Version: 0.1
+Summary: A Flask app for celebrity detection and Q&A using LLMs
+Author: Omprakash
+Author-email: omprakash070204@gmail.com
